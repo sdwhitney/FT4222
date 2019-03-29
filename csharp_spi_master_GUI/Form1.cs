@@ -182,11 +182,6 @@ namespace csharp_spi_master_GUI
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Go();
-        }
-
-        private void Go()
-        {
             deviceA = new FTDI.FT_DEVICE_INFO_NODE();
 
             // variable
