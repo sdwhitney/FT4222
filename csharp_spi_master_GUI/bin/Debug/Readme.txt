@@ -1,0 +1,16 @@
+FT4222 SPI Master Connections
+
+JP5.1   VCCIO
+JP5.2   VOUT3V3
+
+JP5.7   MOSI
+JP5.8   MISO
+JP5.9   SCK
+JP5.12  GND
+
+JP4.1   VBUS
+JP4.2   VCCIN
+
+JP4.9   SSO0#
+
+JP4.12  GND
